@@ -61,6 +61,14 @@ div {
   background-color: green;
 }
 
+.block-open {
+  display: block;
+}
+
+.block-close {
+  display: none;
+}
+
 @media (max-width: 360px) {
   body {
     display: flex;
